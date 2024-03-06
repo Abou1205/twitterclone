@@ -47,7 +47,7 @@ This project is a React-based Twitter clone that leverages Firebase for seamless
    npm run dev
    ```
 
-2. Open your browser and go to `http://localhost:3000` to see the coin markets in action.
+2. Open your browser and go to `http://localhost:3000` to see the twitter clone in action.
 
 ## Gif
 
